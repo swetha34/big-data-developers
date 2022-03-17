@@ -124,7 +124,7 @@ Section 2 - Developers
 29. VKP
 30. SP
 31. RR
-32. GSS
+32. [Gahana Swetha](https://github.com/swetha34)
 33. SS
 34. DS
 35. AS
